@@ -1,0 +1,131 @@
+absl-py==2.0.0
+annotated-types==0.6.0
+asttokens==2.4.1
+blis==0.7.11
+brotlipy==0.7.0
+cachetools==5.3.2
+catalogue==2.0.10
+certifi @ file:///croot/certifi_1683875369620/work/certifi
+cffi @ file:///croot/cffi_1670423208954/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click==8.1.7
+cloudpathlib==0.16.0
+cmake==3.26.4
+comm==0.2.0
+confection==0.1.4
+contourpy==1.2.0
+cryptography @ file:///croot/cryptography_1686613057838/work
+cycler==0.12.1
+cymem==2.0.8
+debugpy==1.8.0
+decorator==5.1.1
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl#sha256=86cc141f63942d4b2c5fcee06630fd6f904788d2f0ab005cce45aadb8fb73889
+exceptiongroup==1.2.0
+executing==2.0.1
+filelock==3.12.2
+fonttools==4.46.0
+fsspec==2023.12.1
+google-auth==2.24.0
+google-auth-oauthlib==1.1.0
+grpcio==1.59.3
+h5py==3.10.0
+huggingface-hub==0.19.4
+idna @ file:///croot/idna_1666125576474/work
+importlib-metadata==6.9.0
+importlib-resources==6.1.1
+ipykernel==6.27.1
+ipython==8.18.1
+jedi==0.19.1
+Jinja2==3.1.2
+jupyter_client==8.6.0
+jupyter_core==5.5.0
+kiwisolver==1.4.5
+langcodes==3.3.0
+lit==16.0.6
+Markdown==3.5.1
+MarkupSafe==2.1.3
+matplotlib==3.8.2
+matplotlib-inline==0.1.6
+mkl-fft==1.3.6
+mkl-random @ file:///work/mkl/mkl_random_1682950433854/work
+mkl-service==2.4.0
+mpmath==1.3.0
+murmurhash==1.0.10
+nest-asyncio==1.5.8
+networkx==3.1
+numpy @ file:///croot/numpy_and_numpy_base_1687466208449/work
+nvidia-cublas-cu11==11.10.3.66
+nvidia-cuda-cupti-cu11==11.7.101
+nvidia-cuda-nvrtc-cu11==11.7.99
+nvidia-cuda-runtime-cu11==11.7.99
+nvidia-cudnn-cu11==8.5.0.96
+nvidia-cufft-cu11==10.9.0.58
+nvidia-curand-cu11==10.2.10.91
+nvidia-cusolver-cu11==11.4.0.1
+nvidia-cusparse-cu11==11.7.4.91
+nvidia-nccl-cu11==2.14.3
+nvidia-nvtx-cu11==11.7.91
+oauthlib==3.2.2
+packaging==23.2
+pandas==2.1.3
+parso==0.8.3
+pexpect==4.9.0
+Pillow==9.4.0
+platformdirs==4.1.0
+preshed==3.0.9
+prompt-toolkit==3.0.41
+protobuf==4.23.4
+psutil==5.9.6
+ptyprocess==0.7.0
+pure-eval==0.2.2
+pyasn1==0.5.1
+pyasn1-modules==0.3.0
+pycocoevalcap==1.2
+pycocotools==2.0.7
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydantic==2.5.2
+pydantic_core==2.14.5
+Pygments==2.17.2
+pyOpenSSL @ file:///croot/pyopenssl_1677607685877/work
+pyparsing==3.1.1
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305812635/work
+python-dateutil==2.8.2
+pytz==2023.3.post1
+PyYAML==6.0.1
+pyzmq==25.1.2
+regex==2023.10.3
+requests @ file:///croot/requests_1682607517574/work
+requests-oauthlib==1.3.1
+rsa==4.9
+safetensors==0.4.1
+six==1.16.0
+smart-open==6.4.0
+spacy==3.7.2
+spacy-legacy==3.0.12
+spacy-loggers==1.0.5
+srsly==2.4.8
+stack-data==0.6.3
+sympy==1.12
+tensorboard==2.15.1
+tensorboard-data-server==0.7.2
+thinc==8.2.1
+tokenizers==0.15.0
+torch==2.0.1
+torchaudio==0.13.0
+torchdata==0.6.1
+torchtext==0.15.2
+torchvision==0.14.0
+tornado==6.4
+tqdm==4.65.0
+traitlets==5.14.0
+transformers==4.35.2
+triton==2.0.0
+typer==0.9.0
+typing_extensions @ file:///croot/typing_extensions_1686601443660/work
+tzdata==2023.3
+urllib3 @ file:///croot/urllib3_1686163155763/work
+wasabi==1.1.2
+wcwidth==0.2.12
+weasel==0.3.4
+Werkzeug==3.0.1
+zipp==3.17.0

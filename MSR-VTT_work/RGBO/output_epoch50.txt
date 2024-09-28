@@ -1,0 +1,244 @@
+Created MSR-VTT train Dataset.
+Created MSR-VTT validate Dataset.
+Created MSR-VTT test Dataset.
+initialization: xavier
+This model is RGBOnlyTransformer model!
+Param Num: 560553264
+####### Epoch 0 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 0:  100.0
+Average meteor epoch 0:  46.727840174759024
+####### Epoch 1 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 1:  100.0
+Average meteor epoch 1:  48.31980371011612
+####### Epoch 2 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 2:  100.0
+Average meteor epoch 2:  51.343238159857854
+####### Epoch 3 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 3:  100.0
+Average meteor epoch 3:  50.99673215040408
+####### Epoch 4 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 4:  100.0
+Average meteor epoch 4:  51.83195516017831
+####### Epoch 5 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 5:  100.0
+Average meteor epoch 5:  49.475589183196284
+####### Epoch 6 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 6:  100.0
+Average meteor epoch 6:  54.198206703382766
+####### Epoch 7 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 7:  100.0
+Average meteor epoch 7:  53.503802463663504
+####### Epoch 8 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 8:  100.0
+Average meteor epoch 8:  54.572354823617744
+####### Epoch 9 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 9:  100.0
+Average meteor epoch 9:  53.240066261726604
+####### Epoch 10 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 10:  100.0
+Average meteor epoch 10:  53.37752826822242
+####### Epoch 11 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 11:  100.0
+Average meteor epoch 11:  54.506482936729675
+####### Epoch 12 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 12:  100.0
+Average meteor epoch 12:  54.626708211959304
+####### Epoch 13 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 13:  100.0
+Average meteor epoch 13:  53.7083680699816
+####### Epoch 14 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 14:  100.0
+Average meteor epoch 14:  53.46938678676828
+####### Epoch 15 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 15:  100.0
+Average meteor epoch 15:  54.240273503756185
+####### Epoch 16 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 16:  100.0
+Average meteor epoch 16:  54.57369269853688
+####### Epoch 17 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 17:  100.0
+Average meteor epoch 17:  55.94612797339159
+####### Epoch 18 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 18:  100.0
+Average meteor epoch 18:  52.454564094278396
+####### Epoch 19 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 19:  100.0
+Average meteor epoch 19:  56.16508337700844
+####### Epoch 20 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 20:  100.0
+Average meteor epoch 20:  53.909787827439736
+####### Epoch 21 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 21:  100.0
+Average meteor epoch 21:  55.10643904741733
+####### Epoch 22 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 22:  100.0
+Average meteor epoch 22:  53.52873769274042
+####### Epoch 23 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 23:  100.0
+Average meteor epoch 23:  56.14939748285395
+####### Epoch 24 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 24:  100.0
+Average meteor epoch 24:  55.9508886406965
+####### Epoch 25 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 25:  100.0
+Average meteor epoch 25:  57.52239788434813
+####### Epoch 26 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 26:  100.0
+Average meteor epoch 26:  57.57664606532913
+####### Epoch 27 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 27:  100.0
+Average meteor epoch 27:  54.54012303398238
+####### Epoch 28 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 28:  100.0
+Average meteor epoch 28:  55.029759377473056
+####### Epoch 29 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 29:  100.0
+Average meteor epoch 29:  55.21896289686937
+####### Epoch 30 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 30:  100.0
+Average meteor epoch 30:  53.90705415284418
+####### Epoch 31 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 31:  100.0
+Average meteor epoch 31:  54.8615288281069
+####### Epoch 32 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 32:  100.0
+Average meteor epoch 32:  54.86406394819732
+####### Epoch 33 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 33:  100.0
+Average meteor epoch 33:  55.55425731403123
+####### Epoch 34 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 34:  100.0
+Average meteor epoch 34:  52.42064727181973
+####### Epoch 35 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 35:  100.0
+Average meteor epoch 35:  55.952614007567846
+####### Epoch 36 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 36:  100.0
+Average meteor epoch 36:  54.46886384020052
+####### Epoch 37 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 37:  100.0
+Average meteor epoch 37:  54.31904308733907
+####### Epoch 38 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 38:  100.0
+Average meteor epoch 38:  52.59877556732555
+####### Epoch 39 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 39:  100.0
+Average meteor epoch 39:  53.85704952006264
+####### Epoch 40 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 40:  100.0
+Average meteor epoch 40:  56.43806120666213
+####### Epoch 41 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 41:  100.0
+Average meteor epoch 41:  56.59478714739582
+####### Epoch 42 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 42:  100.0
+Average meteor epoch 42:  56.56341930573827
+####### Epoch 43 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 43:  100.0
+Average meteor epoch 43:  53.090516031170495
+####### Epoch 44 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 44:  100.0
+Average meteor epoch 44:  56.153058176550985
+####### Epoch 45 #######
+Early stop at 45: unchanged for 46 epochs
+Current timer: 68.36
+----- Test Start -----
+Best epoch (26)
+Traceback (most recent call last):
+  File "/export/home-stu/sar9258/RGBO/main.py", line 403, in <module>
+    main(cfg)
+  File "/export/home-stu/sar9258/RGBO/main.py", line 243, in main
+    max_metrics , ave_metrics = test(model, test_loader, cfg.dataset_name, 0, TBoard, vocab, cfg.use_flow, ave_best_epoch)
+  File "/export/home-stu/sar9258/RGBO/loop/run.py", line 187, in test
+    best_param_epoch = val_avemeteor_epoch.index(max(val_avemeteor_epoch))
+AttributeError: 'int' object has no attribute 'index'
