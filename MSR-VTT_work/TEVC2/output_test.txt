@@ -1,0 +1,86 @@
+Created MSR-VTT train Dataset.
+Created MSR-VTT validate Dataset.
+Created MSR-VTT test Dataset.
+initialization: xavier
+Param Num: 636157232
+----- Training Start -----
+----- Validation Start -----
+Max meteor epoch0:  100.0
+Average meteor epoch0:  43.140033708534816
+----- Training Start -----
+----- Validation Start -----
+Max meteor epoch1:  100.0
+Average meteor epoch1:  46.24435703122313
+----- Training Start -----
+----- Validation Start -----
+Max meteor epoch2:  100.0
+Average meteor epoch2:  51.84719620246712
+----- Test Start -----
+{'testlen': 32, 'reflen': 34, 'guess': [32, 28, 24, 20], 'correct': [22, 7, 4, 0]}
+ratio: 0.9411764705605538
+{'testlen': 25, 'reflen': 26, 'guess': [25, 21, 17, 13], 'correct': [18, 7, 3, 0]}
+ratio: 0.9615384615014793
+{'testlen': 29, 'reflen': 31, 'guess': [29, 25, 21, 17], 'correct': [21, 12, 7, 2]}
+ratio: 0.935483870937565
+{'testlen': 30, 'reflen': 29, 'guess': [30, 26, 22, 18], 'correct': [23, 13, 5, 1]}
+ratio: 1.0344827585850178
+{'testlen': 30, 'reflen': 29, 'guess': [30, 26, 22, 18], 'correct': [21, 9, 5, 3]}
+ratio: 1.0344827585850178
+{'testlen': 29, 'reflen': 31, 'guess': [29, 25, 21, 17], 'correct': [24, 15, 9, 4]}
+ratio: 0.935483870937565
+{'testlen': 27, 'reflen': 27, 'guess': [27, 23, 19, 15], 'correct': [22, 12, 7, 3]}
+ratio: 0.999999999962963
+{'testlen': 28, 'reflen': 32, 'guess': [28, 24, 20, 16], 'correct': [21, 13, 7, 2]}
+ratio: 0.8749999999726563
+{'testlen': 28, 'reflen': 30, 'guess': [28, 24, 20, 16], 'correct': [19, 6, 1, 0]}
+ratio: 0.9333333333022222
+{'testlen': 24, 'reflen': 24, 'guess': [24, 20, 16, 12], 'correct': [18, 8, 5, 3]}
+ratio: 0.9999999999583333
+{'testlen': 28, 'reflen': 30, 'guess': [28, 24, 20, 16], 'correct': [22, 11, 5, 3]}
+ratio: 0.9333333333022222
+{'testlen': 31, 'reflen': 34, 'guess': [31, 27, 23, 19], 'correct': [23, 12, 6, 3]}
+ratio: 0.9117647058555364
+{'testlen': 24, 'reflen': 27, 'guess': [24, 20, 16, 12], 'correct': [20, 11, 5, 2]}
+ratio: 0.8888888888559671
+{'testlen': 28, 'reflen': 28, 'guess': [28, 24, 20, 16], 'correct': [22, 12, 7, 3]}
+ratio: 0.9999999999642857
+{'testlen': 28, 'reflen': 31, 'guess': [28, 24, 20, 16], 'correct': [20, 10, 4, 0]}
+ratio: 0.9032258064224766
+{'testlen': 29, 'reflen': 31, 'guess': [29, 25, 21, 17], 'correct': [20, 10, 6, 2]}
+ratio: 0.935483870937565
+{'testlen': 29, 'reflen': 32, 'guess': [29, 25, 21, 17], 'correct': [19, 10, 6, 3]}
+ratio: 0.9062499999716798
+{'testlen': 29, 'reflen': 31, 'guess': [29, 25, 21, 17], 'correct': [20, 11, 6, 3]}
+ratio: 0.935483870937565
+{'testlen': 28, 'reflen': 30, 'guess': [28, 24, 20, 16], 'correct': [24, 16, 6, 2]}
+ratio: 0.9333333333022222
+{'testlen': 28, 'reflen': 29, 'guess': [28, 24, 20, 16], 'correct': [22, 10, 7, 4]}
+ratio: 0.9655172413460167
+{'testlen': 27, 'reflen': 26, 'guess': [27, 23, 19, 15], 'correct': [20, 9, 5, 3]}
+ratio: 1.0384615384215976
+{'testlen': 26, 'reflen': 25, 'guess': [26, 22, 18, 14], 'correct': [21, 13, 9, 7]}
+ratio: 1.0399999999584
+{'testlen': 31, 'reflen': 31, 'guess': [31, 27, 23, 19], 'correct': [24, 12, 8, 5]}
+ratio: 0.9999999999677419
+{'testlen': 23, 'reflen': 22, 'guess': [23, 19, 15, 11], 'correct': [17, 6, 2, 0]}
+ratio: 1.0454545454070248
+{'testlen': 28, 'reflen': 28, 'guess': [28, 24, 20, 16], 'correct': [17, 6, 3, 2]}
+ratio: 0.9999999999642857
+{'testlen': 33, 'reflen': 35, 'guess': [33, 29, 25, 21], 'correct': [26, 10, 2, 0]}
+ratio: 0.9428571428302042
+{'testlen': 29, 'reflen': 29, 'guess': [29, 25, 21, 17], 'correct': [22, 11, 2, 0]}
+ratio: 0.9999999999655173
+{'testlen': 27, 'reflen': 26, 'guess': [27, 23, 19, 15], 'correct': [25, 15, 6, 1]}
+ratio: 1.0384615384215976
+{'testlen': 27, 'reflen': 27, 'guess': [27, 23, 19, 15], 'correct': [21, 12, 6, 2]}
+ratio: 0.999999999962963
+{'testlen': 27, 'reflen': 27, 'guess': [27, 23, 19, 15], 'correct': [23, 15, 11, 7]}
+ratio: 0.999999999962963
+
+Test Dataset results
+Max Meteor:  100.0
+Max Bleu@3:  37.419680360743854
+Max Bleu@4:  99.99999996672622
+Average Meteor:  28.69056806948217
+Average Bleu@3:  37.419680360743854
+Average Bleu@4:  18.13089928889724

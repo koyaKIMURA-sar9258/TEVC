@@ -1,0 +1,224 @@
+Created MSR-VTT train Dataset.
+Created MSR-VTT validate Dataset.
+Created MSR-VTT test Dataset.
+initialization: xavier
+Param Num: 636157232
+####### Epoch 0 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 0:  100.0
+Average meteor epoch 0:  43.140033708534816
+####### Epoch 1 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 1:  100.0
+Average meteor epoch 1:  46.24435703122313
+####### Epoch 2 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 2:  100.0
+Average meteor epoch 2:  51.84719620246712
+####### Epoch 3 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 3:  100.0
+Average meteor epoch 3:  52.75119062902627
+####### Epoch 4 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 4:  100.0
+Average meteor epoch 4:  51.51150181176219
+####### Epoch 5 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 5:  100.0
+Average meteor epoch 5:  51.38013837149121
+####### Epoch 6 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 6:  100.0
+Average meteor epoch 6:  53.675894160103155
+####### Epoch 7 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 7:  100.0
+Average meteor epoch 7:  51.07411861545464
+####### Epoch 8 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 8:  100.0
+Average meteor epoch 8:  54.71288364453495
+####### Epoch 9 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 9:  100.0
+Average meteor epoch 9:  53.04505611769288
+####### Epoch 10 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 10:  100.0
+Average meteor epoch 10:  52.3975179874735
+####### Epoch 11 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 11:  100.0
+Average meteor epoch 11:  51.26035836320973
+####### Epoch 12 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 12:  100.0
+Average meteor epoch 12:  52.48651801209785
+####### Epoch 13 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 13:  100.0
+Average meteor epoch 13:  53.665788077305756
+####### Epoch 14 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 14:  100.0
+Average meteor epoch 14:  53.21814909686458
+####### Epoch 15 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 15:  100.0
+Average meteor epoch 15:  54.27090729114346
+####### Epoch 16 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 16:  100.0
+Average meteor epoch 16:  52.12266675945264
+####### Epoch 17 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 17:  100.0
+Average meteor epoch 17:  54.00468925821248
+####### Epoch 18 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 18:  100.0
+Average meteor epoch 18:  54.350136765890824
+####### Epoch 19 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 19:  100.0
+Average meteor epoch 19:  55.496126579279846
+####### Epoch 20 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 20:  100.0
+Average meteor epoch 20:  54.528277196631514
+####### Epoch 21 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 21:  100.0
+Average meteor epoch 21:  53.767062211675395
+####### Epoch 22 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 22:  100.0
+Average meteor epoch 22:  52.859601205467854
+####### Epoch 23 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 23:  100.0
+Average meteor epoch 23:  53.99854213879064
+####### Epoch 24 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 24:  100.0
+Average meteor epoch 24:  52.983113712063044
+####### Epoch 25 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 25:  100.0
+Average meteor epoch 25:  53.643950172352184
+####### Epoch 26 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 26:  100.0
+Average meteor epoch 26:  53.53775052233149
+####### Epoch 27 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 27:  100.0
+Average meteor epoch 27:  52.33861492188602
+####### Epoch 28 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 28:  100.0
+Average meteor epoch 28:  54.16098103688659
+####### Epoch 29 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 29:  100.0
+Average meteor epoch 29:  53.01378296549139
+####### Epoch 30 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 30:  100.0
+Average meteor epoch 30:  54.561356216375145
+####### Epoch 31 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 31:  100.0
+Average meteor epoch 31:  53.99307748506609
+####### Epoch 32 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 32:  100.0
+Average meteor epoch 32:  52.433381568466274
+####### Epoch 33 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 33:  100.0
+Average meteor epoch 33:  51.90177438029833
+####### Epoch 34 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 34:  100.0
+Average meteor epoch 34:  53.13618689678864
+####### Epoch 35 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 35:  100.0
+Average meteor epoch 35:  54.767533008313244
+####### Epoch 36 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 36:  100.0
+Average meteor epoch 36:  53.4280099580308
+####### Epoch 37 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 37:  100.0
+Average meteor epoch 37:  56.10166704017024
+####### Epoch 38 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 38:  100.0
+Average meteor epoch 38:  52.81642298005179
+####### Epoch 39 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 39:  100.0
+Average meteor epoch 39:  51.55103290508683
+####### Epoch 40 #######
+--- Training ---
+--- Validation ---
+Max meteor epoch 40:  100.0
+Average meteor epoch 40:  55.19420213925636
+####### Epoch 41 #######
+Early stop at 41: unchanged for 42 epochs
+Current timer: 68.5
+----- Test Start -----
+Traceback (most recent call last):
+  File "/export/home-stu/sar9258/TEVC2/main.py", line 402, in <module>
+    main(cfg)
+  File "/export/home-stu/sar9258/TEVC2/main.py", line 242, in main
+    max_metrics , ave_metrics = test(model, test_loader, cfg.dataset_name, 0, TBoard, vocab, cfg.use_flow, ave_best_epoch)
+  File "/export/home-stu/sar9258/TEVC2/loop/run.py", line 203, in test
+    meteor_scores, bleu3_scores, bleu4_scores = calculate_all_metrics(texts, loader, video_names)
+  File "/export/home-stu/sar9258/TEVC2/evaluate/evaluate.py", line 43, in calculate_all_metrics
+    bleu_score, bleu_scores = Bleu(4).compute_score(dict_gt, dict_pred, verbose=0)
+TypeError: compute_score() got an unexpected keyword argument 'verbose'
